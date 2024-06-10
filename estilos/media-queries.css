@@ -49,6 +49,8 @@ TELAS GRANDES ACIMA DE 1200PX
 
     body {
         background-image: linear-gradient(to top, #49a09d, black);
+        font-size: larger;
+        font-size: 1.5em;
     }
 
 
